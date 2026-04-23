@@ -1,0 +1,183 @@
+[2026-04-12T17:33:11.211Z] INFO: Server running on port 5000
+[2026-04-12T17:33:11.213Z] ERROR: MongoDB connection error: options usenewurlparser, useunifiedtopology are not supported
+[2026-04-12T17:34:30.129Z] INFO: Server running on port 5000
+[2026-04-12T17:34:30.131Z] ERROR: MongoDB connection error: options usenewurlparser, useunifiedtopology are not supported
+[2026-04-12T17:35:08.269Z] INFO: Server running on port 5000
+[2026-04-12T17:35:08.290Z] INFO: Connected to MongoDB successfully
+[2026-04-12T17:35:22.098Z] INFO: Server running on port 5000
+[2026-04-12T17:35:22.113Z] INFO: Connected to MongoDB successfully
+[2026-04-12T17:36:20.726Z] INFO: Server running on port 5000
+[2026-04-12T17:36:20.743Z] INFO: Connected to MongoDB successfully
+[2026-04-12T17:37:13.242Z] INFO: New client connected: Rdo6FuRoAPTNyVXzAAAC
+[2026-04-12T17:37:13.247Z] INFO: Socket Rdo6FuRoAPTNyVXzAAAC joined role: admin
+[2026-04-12T17:46:11.238Z] INFO: Client disconnected: Rdo6FuRoAPTNyVXzAAAC
+[2026-04-12T17:47:05.338Z] INFO: New client connected: hg-guKp6pUP4DsceAAAF
+[2026-04-12T17:47:05.346Z] INFO: Socket hg-guKp6pUP4DsceAAAF joined role: admin
+[2026-04-12T17:48:56.077Z] INFO: Server running on port 5000
+[2026-04-12T17:48:56.094Z] INFO: Connected to MongoDB successfully
+[2026-04-12T17:48:56.253Z] INFO: New client connected: iNn2jFPaqv7rCgeVAAAB
+[2026-04-12T18:02:54.753Z] INFO: Server running on port 5000
+[2026-04-12T18:02:54.780Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:02:59.253Z] INFO: New client connected: PLNr5kM1OaTuOMWhAAAB
+[2026-04-12T18:03:07.296Z] INFO: New client connected: M2FTuOutLEOoRIbmAAAE
+[2026-04-12T18:03:07.323Z] INFO: Socket M2FTuOutLEOoRIbmAAAE joined role: admin
+[2026-04-12T18:03:51.778Z] INFO: Client disconnected: M2FTuOutLEOoRIbmAAAE
+[2026-04-12T18:04:55.298Z] INFO: Server running on port 5000
+[2026-04-12T18:04:55.351Z] INFO: New client connected: 8trgV7zfjKisnwt_AAAB
+[2026-04-12T18:04:55.358Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:05:31.284Z] INFO: Server running on port 5000
+[2026-04-12T18:05:31.315Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:05:31.522Z] INFO: New client connected: 8Cx0CxWJ-gnyyxhMAAAB
+[2026-04-12T18:06:01.192Z] INFO: Server running on port 5000
+[2026-04-12T18:06:01.220Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:06:01.250Z] INFO: New client connected: jrCw20FPqSeR9nigAAAB
+[2026-04-12T18:06:28.994Z] INFO: Server running on port 5000
+[2026-04-12T18:06:29.027Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:06:29.260Z] INFO: New client connected: NEFxIX3joZBbk-byAAAB
+[2026-04-12T18:07:06.309Z] INFO: Server running on port 5000
+[2026-04-12T18:07:06.343Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:07:06.520Z] INFO: New client connected: ltvWVcn5XFncTVLGAAAB
+[2026-04-12T18:08:00.826Z] INFO: New client connected: _OY-ZdK_RVGrHtFHAAAD
+[2026-04-12T18:09:10.841Z] INFO: Client disconnected: _OY-ZdK_RVGrHtFHAAAD
+[2026-04-12T18:09:49.254Z] INFO: New client connected: YOYOz5PciYeau8qYAAAF
+[2026-04-12T18:12:02.917Z] INFO: Client disconnected: YOYOz5PciYeau8qYAAAF
+[2026-04-12T18:12:03.566Z] INFO: New client connected: IXaKVSZUW4nhHLVAAAAI
+[2026-04-12T18:12:03.591Z] INFO: Socket IXaKVSZUW4nhHLVAAAAI joined role: admin
+[2026-04-12T18:13:55.435Z] INFO: Client disconnected: IXaKVSZUW4nhHLVAAAAI
+[2026-04-12T18:13:55.601Z] INFO: New client connected: Ac0OcEtzfgQBFoiYAAAL
+[2026-04-12T18:13:55.621Z] INFO: Socket Ac0OcEtzfgQBFoiYAAAL joined role: admin
+[2026-04-12T18:14:26.691Z] INFO: Client disconnected: Ac0OcEtzfgQBFoiYAAAL
+[2026-04-12T18:14:26.866Z] INFO: New client connected: AUsZvg7qFQz06SAKAAAO
+[2026-04-12T18:14:26.891Z] INFO: Socket AUsZvg7qFQz06SAKAAAO joined role: admin
+[2026-04-12T18:21:34.449Z] INFO: Server running on port 5000
+[2026-04-12T18:21:34.478Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:21:34.517Z] INFO: New client connected: Zwb0wQuo-APt65hbAAAC
+[2026-04-12T18:21:34.523Z] INFO: New client connected: 7fUHl8kY9fOTG5guAAAD
+[2026-04-12T18:22:13.754Z] INFO: Server running on port 5000
+[2026-04-12T18:22:13.787Z] INFO: New client connected: l1igr5C3ka8wO3iSAAAB
+[2026-04-12T18:22:13.814Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:22:14.239Z] INFO: New client connected: p8fIf_REJmNKN38qAAAD
+[2026-04-12T18:25:38.681Z] INFO: Client disconnected: l1igr5C3ka8wO3iSAAAB
+[2026-04-12T18:25:39.384Z] INFO: New client connected: VdHDRtnAa7Y9r8ohAAAG
+[2026-04-12T18:25:39.428Z] INFO: Socket VdHDRtnAa7Y9r8ohAAAG joined role: admin
+[2026-04-12T18:27:10.248Z] INFO: Client disconnected: VdHDRtnAa7Y9r8ohAAAG
+[2026-04-12T18:27:10.271Z] INFO: New client connected: HwvNrVAS54IkLPRXAAAI
+[2026-04-12T18:27:10.280Z] INFO: Socket HwvNrVAS54IkLPRXAAAI joined role: admin
+[2026-04-12T18:27:41.964Z] INFO: Client disconnected: HwvNrVAS54IkLPRXAAAI
+[2026-04-12T18:36:41.193Z] INFO: New client connected: i0nT3n5JIAgsyYqGAAAL
+[2026-04-12T18:36:41.238Z] INFO: Socket i0nT3n5JIAgsyYqGAAAL joined role: admin
+[2026-04-12T18:41:32.524Z] INFO: Server running on port 5000
+[2026-04-12T18:41:32.568Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:41:32.584Z] INFO: New client connected: 0P52zB9xwIrsQxvRAAAC
+[2026-04-12T18:41:32.590Z] INFO: New client connected: VfPrmpKOebQZEdy6AAAD
+[2026-04-12T18:43:54.249Z] INFO: Client disconnected: VfPrmpKOebQZEdy6AAAD
+[2026-04-12T18:43:54.309Z] INFO: New client connected: W5_IX8Wg_BbN2KvBAAAF
+[2026-04-12T18:43:54.320Z] INFO: Socket W5_IX8Wg_BbN2KvBAAAF joined role: admin
+[2026-04-12T18:46:17.731Z] INFO: Client disconnected: W5_IX8Wg_BbN2KvBAAAF
+[2026-04-12T18:46:18.378Z] INFO: New client connected: nklMjN_2k1tAo6cyAAAI
+[2026-04-12T18:46:18.402Z] INFO: Socket nklMjN_2k1tAo6cyAAAI joined role: admin
+[2026-04-12T18:52:22.173Z] INFO: Client disconnected: nklMjN_2k1tAo6cyAAAI
+[2026-04-12T18:52:22.795Z] INFO: New client connected: tLvFB6J0JhTy6gWhAAAL
+[2026-04-12T18:52:22.826Z] INFO: Socket tLvFB6J0JhTy6gWhAAAL joined role: admin
+[2026-04-12T18:52:49.459Z] INFO: Client disconnected: tLvFB6J0JhTy6gWhAAAL
+[2026-04-12T18:52:49.712Z] INFO: New client connected: Iwia33v94ZSo1cw7AAAO
+[2026-04-12T18:52:49.738Z] INFO: Socket Iwia33v94ZSo1cw7AAAO joined role: admin
+[2026-04-12T18:52:51.304Z] INFO: Client disconnected: Iwia33v94ZSo1cw7AAAO
+[2026-04-12T18:53:15.038Z] INFO: New client connected: fb2r00pqVFGYBqNxAAAR
+[2026-04-12T18:53:15.088Z] INFO: Socket fb2r00pqVFGYBqNxAAAR joined role: admin
+[2026-04-12T18:54:00.023Z] INFO: Client disconnected: fb2r00pqVFGYBqNxAAAR
+[2026-04-12T18:56:05.604Z] INFO: Server running on port 5000
+[2026-04-12T18:56:05.638Z] INFO: Connected to MongoDB successfully
+[2026-04-12T18:56:05.776Z] INFO: New client connected: cEhyZXkEjlWS153wAAAB
+[2026-04-12T18:57:43.569Z] INFO: New client connected: An-z34rtxHqTBxUoAAAD
+[2026-04-12T18:57:44.314Z] INFO: Client disconnected: An-z34rtxHqTBxUoAAAD
+[2026-04-12T18:57:44.492Z] INFO: New client connected: RO8Ih4f-8ZkeVyFjAAAG
+[2026-04-12T18:57:44.518Z] INFO: Socket RO8Ih4f-8ZkeVyFjAAAG joined role: admin
+[2026-04-12T19:00:07.629Z] INFO: Server running on port 5000
+[2026-04-12T19:00:07.668Z] INFO: Connected to MongoDB successfully
+[2026-04-12T19:00:07.764Z] INFO: New client connected: YvcC_rH7rSzNAz3GAAAB
+[2026-04-12T19:00:08.254Z] INFO: New client connected: 2FQseI4ieb4zBTK7AAAD
+[2026-04-12T19:00:31.992Z] INFO: Server running on port 5000
+[2026-04-12T19:00:32.028Z] INFO: Connected to MongoDB successfully
+[2026-04-12T19:00:32.255Z] INFO: New client connected: 06of8GD1mUC6QzwkAAAC
+[2026-04-12T19:00:32.261Z] INFO: New client connected: UGhVa9z6rwpt2UWuAAAD
+[2026-04-12T19:01:34.189Z] INFO: Client disconnected: UGhVa9z6rwpt2UWuAAAD
+[2026-04-12T19:01:34.893Z] INFO: New client connected: wf2ppkN34leFtUlsAAAG
+[2026-04-12T19:01:34.928Z] INFO: Socket wf2ppkN34leFtUlsAAAG joined role: admin
+[2026-04-12T19:01:46.053Z] INFO: Client disconnected: wf2ppkN34leFtUlsAAAG
+[2026-04-12T19:01:46.230Z] INFO: New client connected: 4EM6c_7ybUDGyT7bAAAJ
+[2026-04-12T19:01:46.253Z] INFO: Socket 4EM6c_7ybUDGyT7bAAAJ joined role: admin
+[2026-04-12T19:03:10.748Z] INFO: Server running on port 5000
+[2026-04-12T19:03:10.779Z] INFO: Connected to MongoDB successfully
+[2026-04-12T19:03:10.812Z] INFO: New client connected: Vdf6w0aEHLER5CDoAAAB
+[2026-04-12T19:03:11.242Z] INFO: New client connected: zrM6HAoTm31COiVWAAAD
+[2026-04-12T19:03:13.734Z] INFO: Client disconnected: Vdf6w0aEHLER5CDoAAAB
+[2026-04-12T19:03:13.940Z] INFO: New client connected: ZL9d1XoHAPAJHTFNAAAG
+[2026-04-12T19:03:13.971Z] INFO: Socket ZL9d1XoHAPAJHTFNAAAG joined role: admin
+[2026-04-12T19:04:02.194Z] INFO: Client disconnected: ZL9d1XoHAPAJHTFNAAAG
+[2026-04-12T19:04:02.380Z] INFO: New client connected: mNsJ7uF2-09UCP3xAAAJ
+[2026-04-12T19:04:02.413Z] INFO: Socket mNsJ7uF2-09UCP3xAAAJ joined role: admin
+[2026-04-12T19:04:02.454Z] INFO: Client disconnected: mNsJ7uF2-09UCP3xAAAJ
+[2026-04-12T19:04:02.621Z] INFO: New client connected: cNw9nPcjU5EMlwMVAAAM
+[2026-04-12T19:04:02.646Z] INFO: Socket cNw9nPcjU5EMlwMVAAAM joined role: admin
+[2026-04-12T19:21:37.387Z] INFO: Client disconnected: zrM6HAoTm31COiVWAAAD
+[2026-04-12T19:21:37.396Z] INFO: Client disconnected: cNw9nPcjU5EMlwMVAAAM
+[2026-04-12T19:24:47.379Z] INFO: New client connected: ZfDPIxK7krCwKsJrAAAP
+[2026-04-12T19:24:47.418Z] INFO: New client connected: h4u5LbZnAGrY0kXeAAAQ
+[2026-04-12T19:24:47.475Z] INFO: Client disconnected: h4u5LbZnAGrY0kXeAAAQ
+[2026-04-12T19:24:48.717Z] INFO: New client connected: ZB8BiRZnaFQjo93wAAAT
+[2026-04-12T19:24:48.797Z] INFO: Socket ZB8BiRZnaFQjo93wAAAT joined role: admin
+[2026-04-12T19:28:04.176Z] INFO: Client disconnected: ZB8BiRZnaFQjo93wAAAT
+[2026-04-12T19:28:04.178Z] INFO: Client disconnected: ZfDPIxK7krCwKsJrAAAP
+[2026-04-12T19:35:27.233Z] INFO: New client connected: ULT5EfkvD9vG63x5AAAW
+[2026-04-12T19:35:27.236Z] INFO: New client connected: 1Vr7quX4Xcm9tR7wAAAX
+[2026-04-12T19:38:55.526Z] INFO: Client disconnected: 1Vr7quX4Xcm9tR7wAAAX
+[2026-04-12T19:38:55.531Z] INFO: Client disconnected: ULT5EfkvD9vG63x5AAAW
+[2026-04-12T19:39:29.660Z] INFO: New client connected: 20Xotw7shdRrUMJBAAAa
+[2026-04-12T19:39:29.662Z] INFO: New client connected: VLXjKzk9GJQAkIZ3AAAb
+[2026-04-12T19:39:34.221Z] INFO: Client disconnected: 20Xotw7shdRrUMJBAAAa
+[2026-04-12T19:39:34.227Z] INFO: Client disconnected: VLXjKzk9GJQAkIZ3AAAb
+[2026-04-12T19:40:51.585Z] INFO: New client connected: _ZbD_bx1SmwT5V8tAAAe
+[2026-04-12T19:40:51.593Z] INFO: New client connected: T6ZYwTW8xuXWtnrTAAAf
+[2026-04-12T19:40:59.343Z] INFO: Client disconnected: T6ZYwTW8xuXWtnrTAAAf
+[2026-04-12T19:40:59.922Z] INFO: New client connected: 3crqVxP76BK1oszSAAAi
+[2026-04-12T19:40:59.943Z] INFO: Socket 3crqVxP76BK1oszSAAAi joined role: admin
+[2026-04-12T19:41:07.020Z] INFO: Client disconnected: 3crqVxP76BK1oszSAAAi
+[2026-04-12T19:41:07.296Z] INFO: New client connected: QFaboS4ld3VPm28yAAAl
+[2026-04-12T19:41:07.393Z] INFO: Socket QFaboS4ld3VPm28yAAAl joined role: admin
+[2026-04-12T19:41:52.252Z] INFO: Client disconnected: QFaboS4ld3VPm28yAAAl
+[2026-04-12T19:52:52.502Z] INFO: Client disconnected: _ZbD_bx1SmwT5V8tAAAe
+[2026-04-12T19:53:16.098Z] INFO: New client connected: xFln7u0M_UmOpGe9AAAn
+[2026-04-12T19:53:20.425Z] INFO: Client disconnected: xFln7u0M_UmOpGe9AAAn
+[2026-04-12T20:52:54.540Z] INFO: New client connected: 4EzO9zVEaplpxpeYAAAp
+[2026-04-12T20:52:54.844Z] INFO: Client disconnected: 4EzO9zVEaplpxpeYAAAp
+[2026-04-13T03:37:54.725Z] INFO: New client connected: _jZMbYpgkOrhyyzcAAAr
+[2026-04-13T03:38:11.825Z] INFO: New client connected: CNKO4YjgiTkDC4F_AAAu
+[2026-04-13T03:38:11.837Z] INFO: Socket CNKO4YjgiTkDC4F_AAAu joined role: admin
+[2026-04-13T03:38:12.901Z] INFO: Client disconnected: CNKO4YjgiTkDC4F_AAAu
+[2026-04-13T03:38:12.994Z] INFO: New client connected: uLBgdYy4wI3n0385AAAx
+[2026-04-13T03:38:13.005Z] INFO: Socket uLBgdYy4wI3n0385AAAx joined role: admin
+[2026-04-13T03:39:44.064Z] INFO: Client disconnected: uLBgdYy4wI3n0385AAAx
+[2026-04-13T03:40:59.063Z] INFO: New client connected: LfYg81_jyP3dZOEYAAA0
+[2026-04-13T03:40:59.103Z] INFO: Socket LfYg81_jyP3dZOEYAAA0 joined role: admin
+[2026-04-13T03:54:03.153Z] INFO: Client disconnected: LfYg81_jyP3dZOEYAAA0
+[2026-04-13T03:54:03.723Z] INFO: New client connected: 2kJeiDY6BL58lCc4AAA3
+[2026-04-13T03:54:03.742Z] INFO: Socket 2kJeiDY6BL58lCc4AAA3 joined role: admin
+[2026-04-13T04:06:16.134Z] INFO: Server running on port 5000
+[2026-04-13T04:06:16.160Z] INFO: Connected to MongoDB successfully
+[2026-04-13T04:24:45.844Z] INFO: Server running on port 5000
+[2026-04-13T04:24:45.862Z] INFO: Connected to MongoDB successfully
+[2026-04-13T04:37:51.663Z] INFO: Server running on port 5000
+[2026-04-13T04:37:51.682Z] INFO: Connected to MongoDB successfully
+[2026-04-20T08:43:56.926Z] INFO: Server running on port 5000
+[2026-04-20T08:43:57.009Z] INFO: Connected to MongoDB successfully
+[2026-04-23T04:36:37.475Z] INFO: Server running on port 5000
+[2026-04-23T04:36:37.561Z] INFO: Connected to MongoDB successfully
+[2026-04-23T04:40:16.383Z] INFO: Server running on port 5000
+[2026-04-23T04:40:16.416Z] INFO: Connected to MongoDB successfully
+[2026-04-23T04:47:44.632Z] INFO: Server running on port 5000
+[2026-04-23T04:47:44.669Z] INFO: Connected to MongoDB successfully
+[2026-04-23T04:48:11.078Z] INFO: Server running on port 5000
+[2026-04-23T04:48:11.100Z] INFO: Connected to MongoDB successfully
+[2026-04-23T09:34:07.913Z] INFO: Server running on port 5000
+[2026-04-23T09:34:07.965Z] INFO: Connected to MongoDB successfully
