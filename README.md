@@ -12,7 +12,7 @@ It supports:
 ## Tech Stack
 
 - Frontend: React + Vite + Tailwind CSS + Google Maps API
-- Backend: Node.js + Express + Mongoose
+- Backend: Python + Flask + PyMongo
 - Database: MongoDB
 
 ## Project Structure
@@ -21,7 +21,8 @@ It supports:
 Route_Optimization/
   README.md
   backend/
-    src/
+    algorithms/
+    app.py
   frontend/
     src/
 ```
@@ -30,7 +31,8 @@ Route_Optimization/
 
 Install the following on your device:
 
-- Node.js 18+ (recommended: latest LTS)
+- Python 3.8+
+- Node.js 18+ (for frontend)
 - npm (bundled with Node.js)
 - MongoDB (local instance or MongoDB Atlas)
 - Google Maps JavaScript API key
@@ -38,6 +40,7 @@ Install the following on your device:
 Verify installation:
 
 ```bash
+python --version
 node -v
 npm -v
 ```
@@ -55,7 +58,7 @@ cd Route_Optimization
 
 ```bash
 cd backend
-npm install
+pip install -r requirements.txt
 ```
 
 Create `backend/.env` from `backend/.env.example` and update values if needed:
@@ -68,7 +71,7 @@ MONGODB_URI=mongodb://127.0.0.1:27017/route_optimization
 Start backend server:
 
 ```bash
-npm run dev
+python app.py
 ```
 
 Backend URL: `http://localhost:5000`
